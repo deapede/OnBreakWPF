@@ -1,0 +1,48 @@
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll.config
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\bin\Debug\EntityFramework.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\bin\Debug\EntityFramework.xml
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csprojAssemblyReference.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CoreCompileInputs.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CopyComplete
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll.config
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.xml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csprojAssemblyReference.cache
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CoreCompileInputs.cache
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CopyComplete
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll.config
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.xml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csprojAssemblyReference.cache
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CopyComplete
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll.config
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\BibliotecaDatos.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csprojAssemblyReference.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CopyComplete
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaDatos\obj\Debug\BibliotecaDatos.pdb

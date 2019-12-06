@@ -1,0 +1,199 @@
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\VentanaPrincipal.baml
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\David\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\App.baml
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\App.baml
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\VentanaPrincipal.baml
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\David Pinto\source\repos\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\App.baml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\VentanaPrincipal.baml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\App.baml
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\VentanaPrincipal.baml
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\ControlzEx.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.dll.config
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.dll.config
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\ControlzEx.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.xml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\VentanaPrincipal.g.cs
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\App.g.cs
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\App.baml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\VentanaPrincipal.baml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+D:\Desarrollo de Software\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.dll.config
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.dll.config
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\App.baml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\VentanaPrincipal.baml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\David\source\repos\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaClases.dll.config
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\BibliotecaDatos.dll.config
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\App.baml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\VentanaPrincipal.baml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\OnBreakWPF\obj\Debug\OnBreakWPF.pdb

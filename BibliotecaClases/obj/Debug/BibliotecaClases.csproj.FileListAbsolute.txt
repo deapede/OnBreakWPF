@@ -1,0 +1,68 @@
+C:\Users\David\source\repos\OnBreakWPF\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\David\source\repos\OnBreakWPF\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\David\source\repos\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\David\source\repos\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\David\source\repos\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\David Pinto\source\repos\OnBreakWPF\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\David Pinto\source\repos\OnBreakWPF\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\David Pinto\source\repos\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\David Pinto\source\repos\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\David Pinto\source\repos\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\David Pinto\source\repos\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPF\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.pdb
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.dll.config
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.xml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+D:\Desarrollo de Software\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.pdb
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.dll.config
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.xml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\David\source\repos\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.pdb
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\BibliotecaDatos.dll.config
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.xml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\Jaime Rojas\Documents\Proyectos Visual Studio\OnBreakWPFCOnBD\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

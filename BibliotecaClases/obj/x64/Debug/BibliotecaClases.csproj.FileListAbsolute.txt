@@ -1,0 +1,15 @@
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\BibliotecaClases.dll.config
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\BibliotecaClases.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\BibliotecaClases.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\BibliotecaDatos.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\EntityFramework.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\BibliotecaDatos.pdb
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\BibliotecaDatos.dll.config
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\EntityFramework.xml
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\obj\x64\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\obj\x64\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\obj\x64\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\obj\x64\Debug\BibliotecaClases.dll
+C:\Users\David Pinto\Desktop\OnBreakWPFSinBD\BibliotecaClases\obj\x64\Debug\BibliotecaClases.pdb
